@@ -10,7 +10,7 @@ Customer Success Balancing
 ### 🗂 Faça um clone do projeto
 
 ```bash
-git clone https://github.com/goncadanilo/ignite-feed.git
+git@github.com:patriciavsilva/Chanllege---RD.git
 ```
 
 ## Como rodar os testes
